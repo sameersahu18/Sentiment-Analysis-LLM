@@ -13,7 +13,7 @@ This project processes raw text data, extracts meaningful features, and applies 
 * **Machine Learning:** [e.g., Scikit-Learn, TensorFlow, PyTorch]
 * **NLP Libraries:** [e.g., NLTK, spaCy, HuggingFace Transformers]
 * **Data Processing:** Pandas, NumPy
-* **Deployment/Web Framework:** [e.g., FastAPI, Flask, Streamlit] *(Remove if not applicable)*
+
 
 ## ✨ Key Features
 * **Text Preprocessing Pipeline:** Implements tokenization, stop-word removal, and lemmatization to clean noisy text data.
@@ -21,9 +21,3 @@ This project processes raw text data, extracts meaningful features, and applies 
 * **High Accuracy Classification:** Achieved an accuracy of **[XX]%** and an F1-score of **[XX]%** on the [Name of Dataset, e.g., IMDB Movie Reviews] dataset.
 * **Interactive UI (Optional):** Includes a lightweight web interface for users to input text and get real-time sentiment predictions.
 
-## ⚙️ Installation & Setup
-
-1. **Clone the repository:**
-```bash
-   git clone [https://github.com/YourUsername/your-repo-name.git](https://github.com/YourUsername/your-repo-name.git)
-   cd your-repo-name
